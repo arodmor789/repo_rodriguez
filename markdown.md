@@ -37,7 +37,7 @@ Enlace
 [Google](https://www.google.com)
 
 Enlace archivo
-[Readme.md](./Readme.md)
+[Readme.md](./README.md)
 
 Imagen
 ![Escudo de Barbate](./Escudo_de_Barbate.png)
